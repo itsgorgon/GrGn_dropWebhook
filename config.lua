@@ -1,9 +1,9 @@
 --[[
 #######################################################################
-###			WEBHOOK PLAYER DROPPED SIMPLES PARA BASES vRPEX. 
+###			WEBHOOK PLAYER DROPPED SIMPLES PARA CREATIVE. 
 ###  ~~~~ !!! SCRIPT TOTALMENTE GRATUITO, PROIBIDO REVENDA !!! ~~~~
 ###				CRIADO POR: function Gorgon()#6534
-### 		  (presto suporte apenas no discord)
+### 		  (presto suporte apenas para creative)
 #######################################################################
 ]]
 
@@ -27,11 +27,14 @@ gxrgxn["avatarurl"] = "https://cdn.discordapp.com/attachments/477654326337208331
 
 gxrgxn["imgurl"] = "https://media3.giphy.com/media/BPe1fWG9uDoQ0/giphy.gif?cid=ecf05e47qdyxu6zzse18x2ncuksfkfoy7ymlv7rrimb1bbd6&rid=giphy.gif&ct=g" -- Imagem de canto (gif de jesus)
 
-gxrgxn["armamentos"] = false -- Para habilitar/desabilitar informações das armas
+gxrgxn["armamentos"] = false -- Para habilitar/desabilitar informações das armas (ZIRIX/CREATIVE)
+gxrgxn["weaps"] = false -- Caso use seu salvamento de armas no datatable "weaps" ative aqui para true. (CREATIVE)
 
-gxrgxn["corembed"] = 12745742 -- Cor da lateral do embed do webhook. (Códigos:https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812)
+gxrgxn["corembed"] = 12745742 -- Cor da lateral da embed do webhook. (Códigos:https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812)
 
--- MANTENHA TODAS AS INFORMAÇÕES ACIMA PREENCHIDAS PARA O FUNCIONAMENTO DO SCRIPT;
+-- PREENCHA TODAS AS INFORMAÇÕES ACIMA PARA O FUNCIONAMENTO DO SCRIPT.
 -- CASO SEU SALVAMENTO DAS ARMAS NA DATABASE SEJA DIFERENTE, SERÁ NECESSÁRIO ALTERA-LO PARA FUNCIONAMENTO DESTAS INFORMAÇÕES.
 -- PARA DESABILITAR AS INFORMAÇÕES DE ARMAS E MESMO ASSIM CONTINUAR USANDO, É SÓ DEFINIR "FALSE" EM "gxrgxn["armamentos"]" ACIMA.
--- PARA SUPORTE E/OU MELHORIAS, PODE ME CONTATAR NO DISCORD!
+-- PARA SUPORTE E/OU MELHORIAS, PODE ME CONTATAR QUE FECHAMOS O MENOR VALOR POSSÍVEL!
+
+
