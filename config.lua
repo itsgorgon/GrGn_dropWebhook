@@ -9,7 +9,7 @@
 
 gxrgxn = {}
 
-gxrgxn["base"] = "creative" -- disponíveis apenas: creative / zirix
+gxrgxn["base"] = "creative" -- disponíveis apenas: creative / zirix / zirixv3
 
 -- SE FOR ZIRIX MUDE PARA OS QUERY QUE VOCÊ USA, IGNORE SE ESTIVER USANDO CREATIVE:
 gxrgxn["queryhomes"] = "homes/get_homeuserid" -- PADRÃO ZIRIX (CONFIRA SEU PREPARE SE TA IGUAL)
