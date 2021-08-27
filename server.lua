@@ -1,9 +1,9 @@
 --[[
 #######################################################################
-###			WEBHOOK PLAYER DROPPED SIMPLES PARA CREATIVE. 
+###			WEBHOOK PLAYER DROPPED SIMPLES PARA BASES vRPEX. 
 ###  ~~~~ !!! SCRIPT TOTALMENTE GRATUITO, PROIBIDO REVENDA !!! ~~~~
 ###				CRIADO POR: function Gorgon()#6534
-### 		  (presto suporte apenas para creative)
+### 		  (presto suporte apenas no discord)
 #######################################################################
 ]]
 
