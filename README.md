@@ -12,4 +12,5 @@ WEBHOOK:
 ![image](https://user-images.githubusercontent.com/65298690/131050764-68322a23-554e-4782-b703-af54c1e16235.png)
 
 Para suporte ou relatar bugs, discord: function Gorgon()#6534
+https://discord.gg/JtbyTg3Hfb
 
