@@ -29,7 +29,7 @@ gxrgxn["imgurl"] = "https://media3.giphy.com/media/BPe1fWG9uDoQ0/giphy.gif?cid=e
 
 gxrgxn["armamentos"] = false -- Para habilitar/desabilitar informações das armas
 
-gxrgxn["corembed"] = 12745742 -- Cor da lateral da embed do webhook. (Códigos:https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812)
+gxrgxn["corembed"] = 12745742 -- Cor da lateral do embed do webhook. (Códigos:https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812)
 
 -- PREENCHA TODAS AS INFORMAÇÕES ACIMA PARA O FUNCIONAMENTO DO SCRIPT.
 -- CASO SEU SALVAMENTO DAS ARMAS NA DATABASE SEJA DIFERENTE, SERÁ NECESSÁRIO ALTERA-LO PARA FUNCIONAMENTO DESTAS INFORMAÇÕES.
